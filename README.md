@@ -4,11 +4,11 @@
 
 ![banner](.docs/.img/logo.png)
 
-> This branch is intended to be used with Cosmos SDK `v0.40.x`.
+> This branch is intended to be used with Cosmos SDK `v0.43.x`.
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/desmos-labs/juno/Tests)](https://github.com/desmos-labs/juno/actions?query=workflow%3ATests)
 [![Go Report Card](https://goreportcard.com/badge/github.com/desmos-labs/juno)](https://goreportcard.com/report/github.com/desmos-labs/juno)
-[![Codecov](https://img.shields.io/codecov/c/github/desmos-labs/juno)](https://codecov.io/gh/desmos-labs/juno/branch/cosmos-v0.40.x)
+[![Codecov](https://img.shields.io/codecov/c/github/desmos-labs/juno)](https://codecov.io/gh/desmos-labs/juno/branch/cosmos-v0.43.x)
 
 > Juno is a Cosmos Hub blockchain data aggregator and exporter that provides the ability for developers and clients to query for indexed chain data.
 
@@ -40,6 +40,7 @@ Since the Cosmos SDK has evolved a lot, we have different versions of Juno avail
 | `v0.38.x` | `cosmos-v0.38.x` |
 | `v0.39.x` | `cosmos-v0.39.x` |
 | Stargate <br> (`v0.40.x`, `v0.41.x`, `v0.42.x`) | `cosmos-v0.40.x` |
+| `v0.43.x` | `cosmos-v0.43.x` |
 
 ## Usage
 To know how to setup and run Juno, please refer to the [docs folder](.docs).
